@@ -1,0 +1,4 @@
+"sendgrid.env" 
+/config/
+/node_modules/
+/playground/
